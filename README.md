@@ -3,6 +3,7 @@
 Welcome to the Online Messaging System project! This system consists of a server and a client, allowing users to exchange messages online. Please note that the project is a work in progress, and the graphical interface is not yet complete.
 
 ![Screenshot](screenshot.png)
+![Screenshot2](screenshot2.png)
 
 ## Getting Started
 
